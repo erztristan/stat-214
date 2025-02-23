@@ -526,10 +526,11 @@ def convert_numeric_columns(df):
     return df
 
 
-def clean_data():
+def clean_data(df=None):
     """Main function to clean and preprocess the TBI dataset"""
     # Load and preprocess data
-    df = pd.read_csv("../data/TBI PUD 10-08-2013.csv", dtype=str)
+    if df is None:
+        df = pd.read_csv("../data/TBI PUD 10-08-2013.csv", dtype=str)
     df = rename_columns(df)
     df = convert_numeric_columns(df)
     df = impute_gcs_columns(df)
