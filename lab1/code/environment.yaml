@@ -9,3 +9,7 @@ dependencies:
     - matplotlib
     - scikit-learn
     - jupyterlab
+    - seaborn
+    - tensorflow
+
+
