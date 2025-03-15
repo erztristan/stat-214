@@ -1,0 +1,6 @@
+GITHUB USERNAME,Instructor Notes,run.sh,environment.yaml,lab1.tex/lab1.ipynb,clean.py,lab1.pdf,Anonymous,Page Limit,Has Code,Comments,Docstrings,Style,Hard-Coded Paths,No Errors,Collection Description (2pts),Quality (4pts),Detail (4pts),Relevance (2pts),Quality (4pts),Creativeness of Finding 1 (3pts),Quality of Figure #1,Creativeness of Finding #2 (3pts),Quality of Figure #2,Creativeness of Finding #3 (3pts),Quality of Figure #3,Relevance (3pts),Relevance (3pts),Readability (4pts),Three Realms,Model #1 (2pts),Model #2 (2pts),Explanation,Points,Percentage
+erztristan,"EDA/Cleaning: Figures are too small to read.
+Finding 1: the last bit regarding reason CT was administered is quite interesting!
+Finding 2: A regular correlation analysis is rather simple - perhaps this would fit better in the EDA section.
+Reality check: cannot use other publications as your reality check without citing them.
+Stability check: Go a bit deeper - how does this change if we repeat this over and over again? Why is a drop of 10% of the data at random a good stability analysis? Needs more defense.",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,4.0,4.0,2.0,3.0,2.5,3.0,1.0,2.5,3.0,3.0,2.0,2.0,4.0,0.0,2.0,2.0,1.0,53.0,88.33
