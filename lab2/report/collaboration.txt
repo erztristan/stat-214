@@ -1,0 +1,16 @@
+Group 7:
+
+We collaborated our our have work on google doc and github repo: https://github.com/jasminekhamuani1906/lab2_collab
+
+Jasmine Khamuani:
+Worked on the coding, results, evaluations, interpretation and writing for part 1 (EDA), stability analysis and model generalization for part 3 (modelling) and understanding performance pre and post modelling/training. Worked on writing, overall structure, introduction, final parts and formatting of report.
+
+Taiki Kubo:
+Worked on autoencoder (including training model), code lightGBM, compare three prediction models, and did post-doc EDA and sanity check. In addition, I worked on model stability with Jasmine Khamuani.
+
+Tristan Erz:
+Worked on the splitting topic, on the feature importance, the creation of the surrounding features, the decision tree, the conclusion and overall in the optimization of the models und the evaluation.
+
+Kevin Xu:
+Worked on data splitting strategy and code with Tristan Erz. Specifically in implementing a quadrant-based split on top of the 4 fold cross validation. Additionally, owned the modelling of kNN algorithm, hyperparameter tuning, and interpretation.
+
