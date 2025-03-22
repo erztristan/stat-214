@@ -1,0 +1,8 @@
+Jasmine Khamuani:
+
+Taiki Kubo:
+
+Tristan Erz:
+
+Kevin Xu:
+Worked on data splitting strategy and code with Tristan Erz. Specifically in implementing a quadrant-based split on top of the 4 fold cross validation. Additionally, owned the modelling of kNN algorithm, hyperparameter tuning, and interpretation.
