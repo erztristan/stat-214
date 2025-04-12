@@ -1,0 +1,17 @@
+Group 7:
+
+We collaborated our our have work on google doc and github repo: https://github.com/tk-violin/lab3_collab
+
+Jasmine Khamuani:
+I worked on the coding, evaluations, interpretation and writing for Word2Vec and GloVe, and benefits of using pre-trained embeddings. 
+I also worked on writing, overall syntax and structure, introduction, and formatting of report.
+
+Taiki Kubo:
+I did EDA and created the embedding of the bag of words.
+Also I explained the ridge regression approach for the modeling part to the team to help their work.
+
+Tristan Erz:
+I work mainly on the modelling part and do the most coding implementation for that part.
+
+Kevin Xu:
+I worked on the modelling section where my main contributions were on the writeup and conclusion. 
