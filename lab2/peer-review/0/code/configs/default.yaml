@@ -1,0 +1,27 @@
+data:
+  patch_size: 5
+dataloader_train:
+  batch_size: 6000  # Adjusted to prevent memory issues
+  num_workers: 3 # Reduced workers to lower memory overhead
+  shuffle: True
+dataloader_val:
+  batch_size: 6000
+  num_workers: 3
+  shuffle: False
+autoencoder:
+  n_input_channels: 8
+  embedding_size: 8
+optimizer:
+  lr: 0.001
+trainer:
+  max_epochs: 300  # Adjusted to balance compute time and training quality
+  log_every_n_steps: 25
+checkpoint:
+  save_top_k: 2
+  monitor: 'val_loss'
+  mode: 'min'
+  filename: 'exp1-run-{epoch:03d}'  # Changed name to something unique
+  dirpath: 'model_checkpoints'  # Changed directory name for clarity
+wandb:
+  project: 'autoencoder-experiments'
+  name: 'exp1-run'  # Updated for experiment tracking
