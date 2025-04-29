@@ -1,0 +1,16 @@
+Group 7:
+
+We collaborated our our have work on google doc and github repo: https://github.com/jasminekhamuani1906/lab3.2
+
+Jasmine Khamuani:
+I worked on the coding, evaluations, interpretation of encoder.py (BERT), train_encoder.py (MLM), train-loss curvesalong with hyperparamters.
+I did writing for MLM, hyperparameters of the encoder and tuning. I also worked on overall syntax and formatting of report.
+
+Taiki Kubo:
+I worked with Jasmine to develop the encoder model. I also created functions to create batch from text and generate embeddings from the encoder. I wrote the introduction and the “BERT-Based Encoder” section of the report.
+
+Tristan Erz:
+I completed the modeling chapter and provided advice on hyperparameter tuning
+
+Kevin Xu:
+I completed the multiple hyperparameter tuning section and provided advice for the encoder development section.
