@@ -1,0 +1,14 @@
+Group 7:
+
+Jasmine Khamuani:
+I worked on coding, analysis and interpretations for hyperparameter tuning, best hyperparameter selection in Part 1 and did complete writing for 2.2: Finetuning by LoRA and conclusion. I co-wrote 2.3 with Taiki.
+
+Taiki Kubo:
+I performed ridge regression using a pre-trained BERT model, compared it with lab3.1/3.2, and supported LoRA fine-tuning.
+
+Tristan Erz:
+I worked coding and writing for Part 2, especially on the LIME implementation and interpretations. 
+
+
+Kevin Xu:
+I co-wrote the SHAP code and interpreted the word-voxel patterns.     
